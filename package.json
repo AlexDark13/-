@@ -1,0 +1,11 @@
+{
+  "name": "put-ronina",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite --host 0.0.0.0"
+  },
+  "dependencies": {
+    "vite": "^6.3.0"
+  }
+}
